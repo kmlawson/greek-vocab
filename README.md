@@ -1,6 +1,8 @@
 # Read Me
 
-This is a repository created to compile vocabulary from Duolingo's Greek tree. The words within are to be listed as tab-delimited vocabulary, that is to say, a word in greek, followed by a tab, followed by the meaning in English.. The use case for this list is easy importation into space-repetition learning applications such as Anki etc. and is designed to complement study of Greek on Duolingo itself
+This is a repository created to compile vocabulary from Duolingo's Greek tree. The words within are to be listed as tab-delimited vocabulary, that is to say, a greek word or grammatical clue, then a tab, and then the definition, or the answer to the clue. The use case for this list is easy importation into space-repetition learning applications such as Anki etc. and is designed to complement study of Greek on Duolingo itself.
+
+Contributions to this list are welcome, via Pull Requests. I will be adding entries as I go along in the tree. 
 
 -- Konrad M. Lawson, 2017.5
 
