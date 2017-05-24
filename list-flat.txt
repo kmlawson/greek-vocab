@@ -1,0 +1,164 @@
+Α-α	Άλφα // Alpha - A as in Ant
+Β-β	Βήτα // Veeta - V as in Vase
+Γ-γ	Γάμμα (Γάμα) //Gama - γ or g
+Δ-δ	Δέλτα //Delta - ð as in THe
+Ε-ε	Εψίλον //Epsilon - E as in Element
+Ζ-ζ	Ζήτα //Ζεετα - Z as in Zoo
+Η-η	Ήτα //Eeta - EE as in sEE
+Θ-θ	Θήτα //theta	
+Ι-ι	Ιώτα (γιώτα)//Iota - EE as in sEE
+Κ-κ	Κάππα (κάπα)/Kapa - K as inCow
+Λ-λ	Λάμδα//Lambda - L as in Lemon
+Μ-μ	Μυ (μι) //Mee - M as in Mother
+Ν-ν	Νυ (Νι) //Nee - N as in North
+Ξ-ξ	Ξει (Ξι) //Ksee - X as in foX
+Ο-ο	Όμικρον// Omicron - O as in Organ
+Π-π	Πει (Πι) //Pee - P as in Pet
+Ρ-ρ	Ρω (ρο/Rho - R as in Rhapsody
+Σ-σ/ς	Σίγμα 	Sigma
+Τ-τ	Ταυ // Taf - T as in Table
+Υ-υ	Ύψιλον//Ypsilon - EE as in sEE
+Φ-φ	Φει (φι) //Fee - F as in Fun
+Χ-χ	Χει (Χι) //Chee - H as in Hurry
+Ψ-ψ	ψει (ψι) /Psee - PS as in liPStick
+Ω-ω	Ωμέγα //Omega - O as in Organ
+Singular masculine	ο
+Plural masculine	οι
+Singular feminine	η
+Plural feminine		οι
+Singular neuter		το
+Plural neuter	τα
+(Εγώ) είμαι	I am
+(Εσύ) είσαι	you are (singular)
+(Αυτός, αυτή, αυτό) είναι	he, she or it is
+(Εμείς) είμαστε	we are
+(Εσεί) είσαστε	you are(plural)
+(Αυτοί, αυτές, αυτοί) είναι	they are
+nom. indef. masc. sing. article	ένας 	
+nom. indef. fem. sing. article	μία or μια
+nom. indef. neut. sing. article	ένα
+gen. indef. masc. sing. article	ενός 
+gen. indef. fem. sing. article	μίας or μιας
+gen. indef. neut. sing. article	ενός
+acc. indef. masc. sing. article	ένα or έναν
+acc. indef. fem. sing. article	μία or μια
+acc. indef. neut. sing. article	ένα
+nom. indef. masc. plural article	μερικοί
+nom. indef. fem. plural article	μερικές
+nom. indef. neut. plural article	μερικά
+gen. indef. (masc./fem./neut.) plural article	μερικών
+acc. indef. masc. plural article	μερικούς
+acc. indef. fem. plural article	μερικές
+acc. indef. neut. plural article	μερικά
+voc. indef. masc. plural article	μερικοί
+voc. indef. fem. plural article	μερικές
+voc. indef. neut. plural article	μερικά
+εγώ	I
+εσύ	you
+αυτός/αυτή/αυτό	he/she/it
+εμείς	we
+εσείς	you
+αυτοί/αυτές	they (masculine/feminine)
+Καλημέρα	Good Morning
+Καληνύχτα / Καλό βράδυ	Good night
+Καλησπέρα	Good evening
+Όχι	No
+Ναι	Yes
+Ευχαριστώ	Thanks / Thank you
+Παρακαλώ	Please / You are welcome
+Λυπάμαι	I am sorry
+Συγνώμη	Sorry / Excuse me
+Αντίο	Goodbye
+Σ' αγαπώ / Σε αγαπώ	I love you
+Γεια	Hi / Hello
+Τι κάνεις;	How are you? / What are you doing?
+Πόσο κάνει; / Πόσο κοστίζει;	How much does it cost?
+Εγώ είμαι ο / η .....	I am ....
+Εγώ ζω (or μένω) στον / στην / στο ....	I live in .....
+ψωμί	bread
+τυρί	cheese
+τομάτα / ντομάτα	tomato
+αγγούρι	cucumber
+κρεμμύδι	onion
+σαλάτα	salad
+φαγητό	food
+σουβλάκι / καλαμάκι	suvlaki
+γύρος	gyros
+κουτάλι	spoon
+μαχαίρι	knife
+πιρούνι	fork
+πιάτο	dish / plate
+καλή όρεξη	bon appetit
+ένα ποτήρι ...	a glass of ...
+νερό	water
+κρασί	wine
+μπίρα / μπύρα	beer
+ούζο	ouzo
+Στην υγειά σου / Στην υγειά μας	Cheers
+σκύλος / σκυλί	dog
+γάτα	cat
+ποντίκι	mouse
+μέλισσα	bee
+πεταλούδα	butterfly
+αρκούδα	bear
+λύκος	wolf
+καμήλα	camel
+πουλί	bird
+αετός	eagle
+γεράκι	hawk
+δελφίνι	dolphin
+φάλαινα	whale
+καρχαρίας	shark
+my (single object)	(Δικός/Δική/Δικό) μου
+your (single object)	(Δικός/Δική/Δικό) σου
+his (single object)	(Δικός/Δική/Δικό) του
+her (single object)	(Δικός/Δική/Δικό) της
+its (single object)	(Δικός/Δική/Δικό) του
+our (single object)	(Δικός/Δική/Δικό) μας
+your (single object)	(Δικός/Δική/Δικό) σας
+their (single object)	(Δικός/Δική/Δικό) τους
+my (many objects)	(Δικοί/Δικές/Δικά) μου
+your (many objects)	(Δικοί/Δικές/Δικά) σου
+his (many objects)	(Δικοί/Δικές/Δικά) του
+her (many objects)	(Δικοί/Δικές/Δικά) της
+its (many objects)	(Δικοί/Δικές/Δικά) του
+our (many objects)	(Δικοί/Δικές/Δικά) μας
+your (many objects)	(Δικοί/Δικές/Δικά) σας
+their (many objects)	(Δικοί/Δικές/Δικά) τους
+καπέλο	hat
+κασκόλ	scarf
+σκούφος	skull cap
+μπλούζα	T-shirt
+πουκάμισο	shirt
+ζακέτα	jacket / sweater
+φανέλα	jersey
+παντελόνι	trousers / pants
+τζιν	jeans
+παπούτσι / παπούτσια	shoe / shoes
+κάλτσα / κάλτσες	sock / socks
+γάντι / γάντια	glove / gloves
+άρθρο	article
+επίδετο	adjective
+ουσιαστικό	noun
+λογός	speech
+μέρος	part
+ρήμα	verb
+μετοχή	participle
+πρόθεση	preposition
+σύνδεσμος	conjunction
+επίρρημα	adverb
+αντωνυμία	pronoun
+επιφώνημα	interjection
+nom. def. masc. sing. article	ο
+nom. def. fem. sing. article	η
+nom. def. neut. sing. article	το
+gen. def. masc. sing. article	του
+gen. def. fem. sing. article	της
+gen. def. neut. sing. article	του
+nom. def. masc. plural article	οι
+nom. def. fem. plural article	οι
+nom. def. neut. plural article	τα
+gen. def. plural article (masc./fem./neut.)	των
+acc. def. masc. plural article	τους
+acc. def. fem. plural article	τις
+acc. def. neut. plural article	τα
