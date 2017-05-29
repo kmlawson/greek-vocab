@@ -6,7 +6,7 @@
 Ε-ε	Εψίλον //Epsilon - E as in Element
 Ζ-ζ	Ζήτα //Ζεετα - Z as in Zoo
 Η-η	Ήτα //Eeta - EE as in sEE
-Θ-θ	Θήτα //theta	
+Θ-θ	Θήτα //theta
 Ι-ι	Ιώτα (γιώτα)//Iota - EE as in sEE
 Κ-κ	Κάππα (κάπα)/Kapa - K as inCow
 Λ-λ	Λάμδα//Lambda - L as in Lemon
@@ -16,7 +16,7 @@
 Ο-ο	Όμικρον// Omicron - O as in Organ
 Π-π	Πει (Πι) //Pee - P as in Pet
 Ρ-ρ	Ρω (ρο/Rho - R as in Rhapsody
-Σ-σ/ς	Σίγμα 	Sigma
+Σ-σ/ς	Σίγμα Sigma
 Τ-τ	Ταυ // Taf - T as in Table
 Υ-υ	Ύψιλον//Ypsilon - EE as in sEE
 Φ-φ	Φει (φι) //Fee - F as in Fun
@@ -33,8 +33,8 @@
 Singular masculine	ο
 Plural masculine	οι
 Singular feminine	η
-Plural feminine		οι
-Singular neuter		το
+Plural feminine	οι
+Singular neuter	το
 Plural neuter	τα
 (Εγώ) είμαι	I am
 (Εσύ) είσαι	you are (singular)
@@ -44,7 +44,6 @@ Plural neuter	τα
 (Αυτοί, αυτές, αυτοί) είναι	they are
 άστρασ (m)	man
 μήλο (n)	apple
-νερό (n)	water
 αγόρι (n)	boy
 μικρό	small
 ψομί (n)	bread
@@ -52,7 +51,7 @@ Plural neuter	τα
 γυναίκα (f)	woman
 πίνω (v)	to drink
 # Basics 2
-nom. indef. masc. sing. article	ένας 	
+nom. indef. masc. sing. article	ένας
 nom. indef. fem. sing. article	μία or μια
 nom. indef. neut. sing. article	ένα
 gen. indef. masc. sing. article	ενός 
@@ -169,7 +168,7 @@ his (single object)	(Δικός/Δική/Δικό) του
 her (single object)	(Δικός/Δική/Δικό) της
 its (single object)	(Δικός/Δική/Δικό) του
 our (single object)	(Δικός/Δική/Δικό) μας
-your (single object)	(Δικός/Δική/Δικό) σας
+your (pl.) (single object)	(Δικός/Δική/Δικό) σας
 their (single object)	(Δικός/Δική/Δικό) τους
 my (many objects)	(Δικοί/Δικές/Δικά) μου
 your (many objects)	(Δικοί/Δικές/Δικά) σου
@@ -177,7 +176,7 @@ his (many objects)	(Δικοί/Δικές/Δικά) του
 her (many objects)	(Δικοί/Δικές/Δικά) της
 its (many objects)	(Δικοί/Δικές/Δικά) του
 our (many objects)	(Δικοί/Δικές/Δικά) μας
-your (many objects)	(Δικοί/Δικές/Δικά) σας
+your (pl.) (many objects)	(Δικοί/Δικές/Δικά) σας
 their (many objects)	(Δικοί/Δικές/Δικά) τους
 # Clothing
 καπέλο	hat
