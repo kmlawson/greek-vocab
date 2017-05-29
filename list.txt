@@ -23,6 +23,12 @@
 Χ-χ	Χει (Χι) //Chee - H as in Hurry
 Ψ-ψ	ψει (ψι) /Psee - PS as in liPStick
 Ω-ω	Ωμέγα //Omega - O as in Organ
+λουλούδι (n)	flower
+δάδα (f)	torch
+ποπ κορν (n)	popcorn
+γράμμα (n)	letter
+ύμνοσ (m)	hymn
+κακό (n)	bad
 # Basics 1
 Singular masculine	ο
 Plural masculine	οι
@@ -36,6 +42,15 @@ Plural neuter	τα
 (Εμείς) είμαστε	we are
 (Εσεί) είσαστε	you are(plural)
 (Αυτοί, αυτές, αυτοί) είναι	they are
+άστρασ (m)	man
+μήλο (n)	apple
+νερό (n)	water
+αγόρι (n)	boy
+μικρό	small
+ψομί (n)	bread
+κορίτσι (n)	girl
+γυναίκα (f)	woman
+πίνω (v)	to drink
 # Basics 2
 nom. indef. masc. sing. article	ένας 	
 nom. indef. fem. sing. article	μία or μια
@@ -79,42 +94,74 @@ voc. indef. neut. plural article	μερικά
 Πόσο κάνει; / Πόσο κοστίζει;	How much does it cost?
 Εγώ είμαι ο / η .....	I am ....
 Εγώ ζω (or μένω) στον / στην / στο ....	I live in .....
+θέλω (v)	to want
+δεν	not, negation
+όνομα (n)	name
+μιλώ (v)	to speak
+Ελληνικα	Greek
+λέω (v)	to say
 # Food
-ψωμί	bread
-τυρί	cheese
-τομάτα / ντομάτα	tomato
-αγγούρι	cucumber
-κρεμμύδι	onion
-σαλάτα	salad
-φαγητό	food
-σουβλάκι / καλαμάκι	suvlaki
-γύρος	gyros
-κουτάλι	spoon
-μαχαίρι	knife
-πιρούνι	fork
-πιάτο	dish / plate
+ψωμί (n)	bread
+τυρί (n)	cheese
+τομάτα / ντομάτα (f)	tomato
+αγγούρι (f)	cucumber
+κρεμμύδι (n)	onion
+σαλάτα (f)	salad
+φαγητό (n)	food
+τροφή (f)	food
+σουβλάκι / καλαμάκι (n)	suvlaki
+γύρος (m)	gyros
+κουτάλι (n)	spoon
+μαχαίρι (n)	knife
+πιρούνι (n)	fork
+πιάτο (n)	dish / plate
 καλή όρεξη	bon appetit
 ένα ποτήρι ...	a glass of ...
-νερό	water
-κρασί	wine
-μπίρα / μπύρα	beer
-ούζο	ouzo
+νερό (n)	water
+κρασί (n)	wine
+μπίρα / μπύρα (f)	beer
+ούζο (n)	ouzo
 Στην υγειά σου / Στην υγειά μας	Cheers
+κέτσαπ (n)	ketchup
+κεφτέσ (m)	meatball
+λουκάνικο (n)	sausage
+πιπέρι (n)	pepper
+καρπούζι (n)	watermelon
+πεπόνι (n)	melon
+πατάτα (f)	potato
+χυμόσ (m)	juice
+πορτοκάλι (n)	orange
+τσάι (n)	tea
+φράουλα (f)	strawberry
+χάμπουργκερ (n)	hamburger
+μπριζόλα (f)	steak
+κεράσι (n)	cherry
+σταφύλι (n)	grape
+αχλαδι (f)	pear
+βοδινό (n)	beef
+νόστιμο	delicious
+χορτοφάγοσ (m)	vegetarian
+κρέασ (n)	meat
+κοτόπουλο (n)	chicken
+αυγό (n)	eg
+σούπα (f)	egg
+ψάρι (n)	fish
+δείπνο (n)	dinner
 # Animals 1
-σκύλος / σκυλί	dog
-γάτα	cat
-ποντίκι	mouse
-μέλισσα	bee
-πεταλούδα	butterfly
-αρκούδα	bear
-λύκος	wolf
-καμήλα	camel
-πουλί	bird
-αετός	eagle
-γεράκι	hawk
-δελφίνι	dolphin
-φάλαινα	whale
-καρχαρίας	shark
+σκύλος / σκυλί (m/n)	dog
+γάτα (f)	cat
+ποντίκι (n)	mouse
+μέλισσα (f)	bee
+πεταλούδα (f)	butterfly
+αρκούδα (f)	bear
+λύκος (m)	wolf
+καμήλα (f)	camel
+πουλί (n)	bird
+αετός (m)	eagle
+γεράκι (n)	hawk
+δελφίνι (n)	dolphin
+φάλαινα (f)	whale
+καρχαρίας (m)	shark
 # Possess.
 my (single object)	(Δικός/Δική/Δικό) μου
 your (single object)	(Δικός/Δική/Δικό) σου
