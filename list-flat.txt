@@ -73,6 +73,13 @@ voc. indef. neut. plural article	μερικά
 εμείς	we
 εσείς	you
 αυτοί/αυτές	they (masculine/feminine)
+ζωή (f)	life
+ρύζι (n)	rice
+εφημερίδα (f)	newspaper
+μενού (n)	menu
+διαβάζω	to read
+βιβλίο (n)	book
+θα	will - verb auxiliary 
 Καλημέρα	Good Morning
 Καληνύχτα / Καλό βράδυ	Good night
 Καλησπέρα	Good evening
@@ -99,7 +106,6 @@ voc. indef. neut. plural article	μερικά
 τυρί (n)	cheese
 τομάτα / ντομάτα (f)	tomato
 αγγούρι (f)	cucumber
-κρεμμύδι (n)	onion
 σαλάτα (f)	salad
 φαγητό (n)	food
 τροφή (f)	food
@@ -141,6 +147,24 @@ voc. indef. neut. plural article	μερικά
 σούπα (f)	egg
 ψάρι (n)	fish
 δείπνο (n)	dinner
+ροδάκινο (n)	peach
+λεμόνι (n)	lemon
+ποτήρι (n)	glass
+φρούτο (n)	fruit
+πίτσα (f)	pizza
+κρεμμύδι (n)	onion
+σκόρδο (n)	garlic
+πορτοκαλάδα (f)	orangeade
+πρωινο (n)	breakfast
+παγωτό (n)	ice cream
+γλυκό (n)	candy
+καρότο (n)	carrot
+χοιρινό (n)	pork
+γεύμα (n)	meal
+κέικ (n)	cake
+καφές (m)	coffee
+τσίζκεικ (n)	cheesecake
+ζάχαρη (n)	sugar
 σκύλος / σκυλί (m/n)	dog
 γάτα (f)	cat
 ποντίκι (n)	mouse
@@ -155,6 +179,26 @@ voc. indef. neut. plural article	μερικά
 δελφίνι (n)	dolphin
 φάλαινα (f)	whale
 καρχαρίας (m)	shark
+κότα (f)	hen
+έντομο (n)	insect
+πίθηκος (m)	ape
+άλογο (n)	horse
+λαγός (m)	hare
+αλεπού (f)	fox
+τίγρης (m)	tiger
+θηλαστικό (n)	mammal
+πάπια (f)	duck
+ζώο (n)	animal
+ερπετό (n)	reptile
+σκύλος (m)	dog
+κουτάβι (n)	puppy
+χάμστερ (n)	hamster
+καμηλοπάρδαλη (f)	giraffe
+ελέφαντας (m)	elephant
+χελώνα (f)	turtle
+λιοντάρι (n)	lion
+καβούρι (n)	crab
+αράχνη (f)	spider
 my (single object)	(Δικός/Δική/Δικό) μου
 your (single object)	(Δικός/Δική/Δικό) σου
 his (single object)	(Δικός/Δική/Δικό) του
