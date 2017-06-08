@@ -48,6 +48,11 @@ Plural neuter	τα
 κορίτσι (n)	girl
 γυναίκα (f)	woman
 πίνω (v)	to drink
+γεγονός (m)	fact
+ωκεανός (m)	ocean
+ψυχή (f)	soul
+χρώμα (f)	color
+ξυλόφωνο (n)	xylophone
 nom. indef. masc. sing. article	ένας
 nom. indef. fem. sing. article	μία or μια
 nom. indef. neut. sing. article	ένα
@@ -165,6 +170,7 @@ voc. indef. neut. plural article	μερικά
 καφές (m)	coffee
 τσίζκεικ (n)	cheesecake
 ζάχαρη (n)	sugar
+σάντουιτς (m)	sandwich
 σκύλος / σκυλί (m/n)	dog
 γάτα (f)	cat
 ποντίκι (n)	mouse
@@ -199,6 +205,8 @@ voc. indef. neut. plural article	μερικά
 λιοντάρι (n)	lion
 καβούρι (n)	crab
 αράχνη (f)	spider
+κατοικίδιο (n)	pet
+πελεκάνος (m)	pelican
 my (single object)	(Δικός/Δική/Δικό) μου
 your (single object)	(Δικός/Δική/Δικό) σου
 his (single object)	(Δικός/Δική/Δικό) του
@@ -227,6 +235,20 @@ their (many objects)	(Δικοί/Δικές/Δικά) τους
 παπούτσι / παπούτσια	shoe / shoes
 κάλτσα / κάλτσες	sock / socks
 γάντι / γάντια	glove / gloves
+κοστούμι (n)	suit
+τα ρούχα	the clothes
+μιτοθφάν	jacket
+φοράω	to wear
+ζώνη (f)	belt
+κόσμημα (n!)	jewel
+μπότα (f)	boot
+κάλτσα (f)	sock
+παπούτσι (n)	shoe
+γραβάτα (f)	tie
+μάλλινος (m)	woolen thing
+τσέπη (f)	pocket
+πορτοφόλι (n)	wallet
+δερμάτιν|ος|η|ο	leather adj.
 άρθρο	article
 επίδετο	adjective
 ουσιαστικό	noun
