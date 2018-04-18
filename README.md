@@ -2,7 +2,7 @@
 
 This is a repository created to compile vocabulary from Duolingo's Greek tree. The words within are to be listed as tab-delimited vocabulary, that is to say, a greek word or grammatical clue, then a tab, and then the definition, or the answer to the clue. The use case for this list is easy importation into space-repetition learning applications such as Anki etc. and is designed to complement study of Greek on Duolingo itself.
 
-Contributions to this list are welcome, via Pull Requests. I will be adding entries as I go along in the tree. 
+Contributions to this list are welcome, via Pull Requests. I will be adding entries as I go along in the tree.
 
 -- Konrad M. Lawson, 2017.5
 
@@ -12,8 +12,8 @@ Contributions to this list are welcome, via Pull Requests. I will be adding entr
 * When possible include the gender of the noun or add it to previously added entries which still lack them to improve the list
 * If grammar notes are useful and can be easily made into a flashcard, feel free to incorporate them
 * Grammatical points may work better with English in the first field (question) and Greek in the second (answer)
-* Please do not make separate entries for every conjugation of a word. 
+* Please do not make separate entries for every conjugation of a word.
 * Keep definitions simple, short, and clear as much as possible
 * Do not word for word copy long definitions from copyrighted dictionaries when contributing
 
-
+* Some of the lessons words were taken from the Memrise vocabulary for Duolingo, Nick_Marg

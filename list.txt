@@ -59,7 +59,7 @@ Plural neuter	τα
 nom. indef. masc. sing. article	ένας
 nom. indef. fem. sing. article	μία or μια
 nom. indef. neut. sing. article	ένα
-gen. indef. masc. sing. article	ενός 
+gen. indef. masc. sing. article	ενός
 gen. indef. fem. sing. article	μίας or μιας
 gen. indef. neut. sing. article	ενός
 acc. indef. masc. sing. article	ένα or έναν
@@ -87,7 +87,7 @@ voc. indef. neut. plural article	μερικά
 μενού (n)	menu
 διαβάζω	to read
 βιβλίο (n)	book
-θα	will - verb auxiliary 
+θα	will - verb auxiliary
 # Phrases
 Καλημέρα	Good Morning
 Καληνύχτα / Καλό βράδυ	Good night
@@ -283,9 +283,218 @@ gen. def. plural article (masc./fem./neut.)	των
 acc. def. masc. plural article	τους
 acc. def. fem. plural article	τις
 acc. def. neut. plural article	τα
-# Plurals
 # Questions
+τί	what
+πώς	how
+πού	where
+γιατί	why
+πότε	when
+πόσο	how much (masculine)
+πόσα	how much (feminine)
+ποιός	who
+ποιανού	whose
+ερώτηση	question
+απάντηση	answer
+έχει	has
 # Pers. pron
+της	her
+τους	them
+μας	us
+του	him
+μου	me
+σου	you
+σας	you [polite type]
 # Aux. V.
+έχω	have (I)
+είμαι	am (I)
+έχεις	have (you)
+είσαι	are (you)
+εσύ	you
+εγώ	I
+είναι	is (he/she/it)
+έχει	has (he/se/it)
+αυτός	he
+αυτή	she
+αυτό	it
+είμαστε	we
+αυτά	these
+είσαστε	are (you plural)
+έχουμε	are (we)
+έχετε	have (you)
+έχουν	have (they)
+εμείς	we
+εσείς	you (plural)
+αυτοί	they
+αυτές	they (feminine)
 # Verbs Pr. 1
+γράφω	I write
+είμαι	I am
+βλέπω	I see
+κολυμπώ	I swim
+τρέχει	He/She/It runs
+περπατώ	I walk
+υπάρχω	I exist
+μαγειρεύω	I cook
+θέλω	I want
+κοιμάμαι	I sleep
+θέλει	He/She/It wants
+αγοράζω	I buy
+τρέχω	I run
+πηγαίνω	I go
+πληρώνω	I pay
+πληρώνει	He/She/It pays
+πηγαίνει	He/She/It goes
+παίζει	He/She/It plays
+αρέσει	He/She/It likes
+τραγουδώ	I sing
+παίζω	I play
+χρησιμοποιώ	I use
+αγγίζω	I touch
+αγαπά	He/She/It loves
+βρέχει	It rains
+αγαπάω	I love
+απαγορεύω	I forbid
+λέω	I tell
+λέει	He/She/It tells
+ακούει	He/She/It hears
+χρειάζομαι	I need
+φέρνω	I bring
+ακούω	I hear
+δουλεύω	I work
+βοηθώ	I help
+δείχνω	I show
+κάνω	I do
+φτιάχνω	I create
+βάζω	I put
+βρίσκω	I find
+σχεδιάζω	I plan
+παίρνω	I take
+ξέρω	I know
 # Colors
+κόκκινο	red
+πορτοκαλί	orange
+άσπρο	white
+μαύρο	black
+μπλε	blue
+κίτρινο	yellow
+πράσινο	green
+άσπρη	white (feminine)
+ροζ	pink
+πολύχρωμο	colorful
+λαχανί	light green
+μοβ	purple
+γαλάζιο	light blue
+χρώμα	color
+ασπρόμαυρο	black and white
+καφέ	brown
+κίτρινος	yellow (masculine)
+κόκκινος	red (masculine)
+πράσινος	green (masculine)
+μαύρος	black (masculine)
+ανοιχτός	light (masculine)
+σκούρος	dark (masculine)
+# Determiners
+εκείνος	that (male)
+εκείνη	that (female)
+εκείνο	that (neuter)
+# Genitive
+genitive plural ending	-ων
+articles for genitive	m: του f: της n: του
+# Prepositions
+από	from
+σε	to (prep.)
+ανάμεσα	between
+δίπλα	next to
+για	for
+σαν	like; to be like
+πριν	before
+μετά	after
+πάνω	on/above
+κάτω	down/below
+εντός	in
+μέσα	in
+εκτός	out
+έξω	out
+κοντά	near
+εναντίον	against
+# Places
+πόλη	city
+χωριό	village
+πλατεία	square
+κέντρο	downtown
+κωμόπολη	town
+εκκλησία	church
+δημαρχείο	town hall
+παραλία	beach
+ακτή	coast
+δρόμος	road
+σπίτι	house
+εστιατόριο	restaurant
+# Time
+μέρα	day
+εβδομάδα	week
+Δευτέρα	Monday
+Τρίτη	Tuesday
+Τετάρτη	Wednesday
+Πέμπτη	Thursday
+Παρασκευή	Friday
+Σάββατο	Saturday
+Κυριακή	Sunday
+σαββατοκύριακο	weekend
+μήνας	month
+χρόνος	year
+Ιανουάριος/Γενάρης*	January
+Φεβρουάριος/Φλεβάρης*	February
+Μάρτιος/Μάρτης*	March
+Απρίλιος/Απρίλης*	April
+Μάιος/Μάης*	May
+Ιούνιος	June
+Ιούλιος	July
+Αύγουστος	August
+Σεπτέμβριος/Σεπτέμβρης*	September
+Οκτώβριος/Οκτώβρης*	October
+Νοέμβριος/Νοέμβρης*	November
+Δεκέμβριος/Δεκέμβρης*	December
+εποχή	season
+Χειμώνας	winter
+Άνοιξη	spring
+Καλοκαίρι	summer
+Φθινόπωρο	autumn
+Τι ώρα είναι;	What time is it?
+# Occupations
+ο εργάτης / η εργάτης / η εργάτρια	the worker
+ο ναύτης / η ναύτης	the sailor
+ο αγρότης / η αγρότισσα	the farmer
+ο οδηγός / η οδηγός	the driver
+ο δάσκαλος / η δασκάλα	the teacher (elementary school)
+ο καθηγητής / η καθηγήτρια	the teacher (middle school & university)
+ο μαθητής / η μαθήτρια	the student (school)
+ο φοιτητής / η φοιτήτρια	the student (university)
+ο μεταφραστής / η μεταφράστρια	the translator
+ο γιατρός / ο ιατρός / η γιατρός / η ιατρός	the doctor
+ο ηθοποιός / η ηθοποιός	the actor / the actress
+ο αστυνομικός / ο αστυνόμος / η αστυνομικός / η αστυνόμος	the policeman / the policewoman
+ο πωλητής / η πωλήτρια	the salesman / the saleswoman
+ο δικαστής / η δικαστής	the judge
+ο δικηγόρος / η δικηγόρος	the lawyer
+ο διευθυντής / η διευθύντρια	the director/ the principal (school)
+ο στρατιώτης / η στρατιωτίνα	the soldier
+ο μάγειρας / η μαγείρισσα	the cook
+# Conjunctions
+και / κι	and
+ή	or
+ούτε	neither
+ούτε...ούτε	neither … nor
+είτε...είτε	either ...or
+αλλά	but
+όμως	however
+ενώ	while
+όταν	when
+πριν	before
+γιατί	why***
+επειδή	because
+αν	if/whether
+να	to
+για να	in order to
+που, πως, ότι*	that
+γιατί, επειδή, διό*τι	because
