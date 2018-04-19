@@ -16,4 +16,6 @@ Contributions to this list are welcome, via Pull Requests. I will be adding entr
 * Keep definitions simple, short, and clear as much as possible
 * Do not word for word copy long definitions from copyrighted dictionaries when contributing
 
-* Some of the lessons words were taken from the Memrise vocabulary for Duolingo, Nick_Marg
+* Thanks and sources:
+	* Some of the lessons words were taken from the Memrise vocabulary for Duolingo, Nick_Marg
+	* Most later lessons were already transcribed and made available on another Memrise account by user owlielovesbooks. These were merged in here, and slowly adding the gender of the nouns where not clear.
