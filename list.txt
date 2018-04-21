@@ -575,16 +575,6 @@ articles for genitive	m: του f: της n: του
 αύγουστος	August
 μήνας	month
 πέρυσι	last year
-# Conjunctions
-όταν	when [conj.]
-αν	if
-όποτε	whenever [conj.]
-αν και	although
-ωστόσο	however
-ότι	that
-αλλά	but
-ή	or
-επειδή	because
 # Occupations
 μάγειρας	cook
 σερβιτόρος	waiter
@@ -596,7 +586,7 @@ articles for genitive	m: του f: της n: του
 καλλιτέχνης	artist
 μηχανικός	engineer, mechanic
 προϊστάμενος	supervisor
-προσωπικό	staff, personnel
+προσωπικό	staff, personnel (n)
 γιατρός	doctor
 αξιωματικός	officer
 μαθητής	school student
@@ -606,11 +596,11 @@ articles for genitive	m: του f: της n: του
 καπετάνιος	captain
 συγγραφέας	writer
 γραμματέας	secretary
-μοντέλο	model
+μοντέλο	model (n)
 φύλακας	guard
 επαγγελματίας	professional
 καριέρα	career
-αφεντικό	boss
+αφεντικό	boss (n)
 συντάκτης	editor
 εργάτης	worker
 αγρότης	farmer
@@ -701,56 +691,56 @@ articles for genitive	m: του f: της n: του
 νιώθω	(I) feel
 # Household
 νεροχύτης	sink
-χαλί	carpet
+χαλί	carpet (n)
 φωτιστικό	lamp (furniture)
 τουαλέτα	toilet
-αποθήκη	store room
+αποθήκη	store room (f)
 πολυθρόνα	armchair
-μπαλκόνι	balcony
-οροφή	ceiling
-βρύση	tap, faucet
+μπαλκόνι	balcony (f)
+οροφή	ceiling (f)
+βρύση	tap, faucet (f)
 ντουλάπα	wardrobe, closet
-σπίτι	house, home
+σπίτι	house, home (n!)
 κουρτίνα	curtain
-ψυγείο	refrigerator
-παράθυρο	window
-ντους	shower
-μαξιλάρι	pillow, cushion
-έπιπλο	(piece of) furniture
+ψυγείο	refrigerator (n)
+παράθυρο	window (n)
+ντους	shower (n!)
+μαξιλάρι	pillow, cushion (n)
+έπιπλο	(piece of) furniture (n)
 λάμπα	lamp (light bulb)
 πετσέτα	towel
 κήπος	garden
 καρέκλα	chair
-πάτωμα	floor
-αυλή	yard
+πάτωμα	floor (n!)
+αυλή	yard (f)
 τοίχος	wall
-χολ	hall
+χολ	hall (n)
 οδοντόκρεμα	toothpaste
-σαλόνι	living room
+σαλόνι	living room (n)
 πόρτα	door
-βιβλιοθήκη	library, bookcase
+βιβλιοθήκη	library, bookcase (f)
 τραπεζαρία	dining room
 οδοντόβουρτσα	toothbrush
-σαπούνι	soap
-κλειδί	key
+σαπούνι	soap (n)
+κλειδί	key (n)
 σκάλα	stairs
 σοφίτα	attic
 φως	light
 φούρνος	oven
-δωμάτιο	room
-υπνοδωμάτιο	bedroom
+δωμάτιο	room (n)
+υπνοδωμάτιο	bedroom (n)
 κουζίνα	kitchen
-κρεβάτι	bed
-γραφείο	desk, office
+κρεβάτι	bed (n)
+γραφείο	desk, office (n)
 καθρέφτης	mirror
 καναπές	sofa
 # Objects
 οθόνη	screen
 κομμάτι	piece
-πράγμα	thing
+πράγμα	thing (n!)
 ψαλίδι	scissors
 κουτί	box
-μυθιστόρημα	novel
+μυθιστόρημα	novel (n!)
 ραδιόφωνο	radio
 οδοντόπαστα	toothpaste
 αντικείμενο	object
@@ -773,7 +763,7 @@ articles for genitive	m: του f: της n: του
 τσάντα	bag
 μαχαίρι	knife
 σφουγγάρι	sponge
-μπολ	bowl
+μπολ	bowl (n)
 μπαταρία	battery
 σκεπή	roof
 περιοδικό	magazine
@@ -908,10 +898,10 @@ articles for genitive	m: του f: της n: του
 # Places
 νησί	island
 φυλακή	prison
-έδαφος	ground
+έδαφος	ground (n)
 περιοχή	area
 λιμάνι	harbour, port
-λεωφόρος	avenue
+λεωφόρος	avenue (f)
 ξενοδοχείο	hotel
 ιδιοκτησία	property
 πόλη	city
@@ -939,11 +929,11 @@ articles for genitive	m: του f: της n: του
 ζωολογικός	zoological
 πύργος	tower
 μουσείο	museum
-τμήμα	department
+τμήμα	department (n)
 ελλάδα	Greece
 ακτή	coast
 μπροστά	forward, ahead, front
-μέρος	place, part
+μέρος	place, part (n)
 σταθμός	station
 δεξιά	right (direction)
 κορυφή	top, peak
@@ -952,13 +942,13 @@ articles for genitive	m: του f: της n: του
 περιφέρεια	district
 βορράς	north [noun]
 εκκλησία	church
-σινεμά	cinema
+σινεμά	cinema (n)
 εσωτερικό	interior
 χωριό	village
 γειτονιά	neighbourhood
 # People
 κοπέλα	young woman
-θύμα	victim
+θύμα	victim (n)
 επιτροπή	committee
 άνθρωποι	people
 ζευγάρι	couple
@@ -970,7 +960,7 @@ articles for genitive	m: του f: της n: του
 άτομο	person
 νεολαία	youth
 κυρία	lady
-ίδρυμα	foundation
+ίδρυμα	foundation (n)
 πολίτης	citizen
 σχέση	relationship
 φίλη	friend [f.]
@@ -1096,7 +1086,7 @@ articles for genitive	m: του f: της n: του
 το οποίο	which [n., sing.]
 σε ποιον	to whom [m., sing.]
 # Travel
-όχημα	vehicle
+όχημα	vehicle (n)
 αυτοκίνητο	car
 μοτοσικλέτα	motorcycle
 ισπανικά	Spanish
@@ -1159,10 +1149,10 @@ articles for genitive	m: του f: της n: του
 μίλι	mile
 ζυγίζω	(I) weigh
 τόνοι	tonnes
-πλάτος	width
+πλάτος	width (n)
 εκατοστό	centimetre
 γραμμάριο	gram
-μήκος	length
+μήκος	length (n)
 μεγάλος	big
 μέτρα	metres
 χιλιόμετρο	kilometre
@@ -1186,24 +1176,24 @@ articles for genitive	m: του f: της n: του
 τεστ	test
 γνώσεις	knowledge
 κολλέγιο	college
-πρόγραμμα	program
-μάθημα	lesson
+πρόγραμμα	program (n)
+μάθημα	lesson (n)
 προτάση	sentence, proposal
 ιστορία	history, story
-παράδειγμα	example
+παράδειγμα	example (n)
 έγγραφο	document
 σελίδα	page
 ιδέα	idea
 εκπαίδευση	education
 παραμύθι	fairy tale
 δάσκαλος	school teacher (primary, elementary)
-ποίημα	poem
+ποίημα	poem (n)
 # Abstract Objects 1
 ευγένεια	courtesy
 παράσταση	presentation (performance)
 λίστα	list
 ευρωπαϊκή	european
-λάθος	error
+λάθος	error (n)
 λύση	solution
 προφίλ	profile
 ομάδα	team
@@ -1221,7 +1211,7 @@ articles for genitive	m: του f: της n: του
 ελευθερία	freedom
 επιτυχία	success
 φωνή	voice
-ρεκόρ	record
+ρεκόρ	record (n)
 απόδειξη	proof
 εξοπλισμός	equipment
 βραβείο	prize
@@ -1230,14 +1220,14 @@ articles for genitive	m: του f: της n: του
 αγάπη	love
 κατασκευή	construction
 ευκαιρία	opportunity
-σύστημα	system
-πρόβλημα	problem
+σύστημα	system (n)
+πρόβλημα	problem (n)
 χρέωση	charge
-αποτέλεσμα	result
+αποτέλεσμα	result (n)
 κατηγορία	category
 θέα	view (scene)
 πτυχίο	degree (academic)
-μέλος	member
+μέλος	member (n)
 ευχή	wish
 περιγραφή	description
 επιλογή	choice
@@ -1272,8 +1262,8 @@ articles for genitive	m: του f: της n: του
 έχω μαγειρέψει	(I) have cooked
 # Abstract Objects 2
 θρησκεία	religion
-ψέμα	lie
-μίσος	hate
+ψέμα	lie (n)
+μίσος	hate (n)
 αλήθεια	truth
 εμπειρία	experience
 ευθύνη	responsibility
@@ -1281,13 +1271,13 @@ articles for genitive	m: του f: της n: του
 συζήτηση	conversation
 μυστικό	secret
 σκιά	shadow
-έξοδος	exit
+έξοδος	exit (f)
 σεβασμός	respect
 ντελίβερι	delivery
 τίτλος	title
 πραγματικότητα	reality
 δράση	action
-όφελος	benefit
+όφελος	benefit (n)
 κατεύθυνση	direction
 δύναμη	strength
 θέση	position
@@ -1296,16 +1286,16 @@ articles for genitive	m: του f: της n: του
 συμπεριφορά	behaviour
 πόθος	desire
 πιθανότητα	possibility
-σχήμα	shape
+σχήμα	shape (n)
 απόφαση	decision
 ευχαρίστηση	pleasure
 σύμβολο	symbol
 ζημιά	damage
-διάστημα	space
+διάστημα	space (n)
 υπογραφή	signature
 προέλευση	origin
 θόρυβος	noise
-σύνθημα	cue
+σύνθημα	cue (n)
 προσπάθεια	try (attempt)
 έκπληξη	surprise
 σκοπός	purpose
@@ -1313,9 +1303,9 @@ articles for genitive	m: του f: της n: του
 αμφιβολίες	doubts
 φόβος	fear
 μνήμη	memory
-χιούμορ	humour
+χιούμορ	humour (n)
 χαρακτήρας	character
-ενδιαφέρον	interest
+ενδιαφέρον	interest (n)
 ακολουθία	order
 # Nature
 καλλιέργεια	cultivation
@@ -1326,14 +1316,14 @@ articles for genitive	m: του f: της n: του
 σκόνη	dust
 κόσμος	world
 κάμπος	plain
-δάσος	forest
+δάσος	forest (n)
 αέρας	air
 φύλλο	leaf
-κλίμα	climate
+κλίμα	climate (n)
 αστέρι	star
 τυφώνας	hurricane
 φεγγάρι	moon
-περιβάλλον	environment
+περιβάλλον	environment (n)
 χωράφι	field (land)
 λίμνη	lake
 σεισμός	earthquake
@@ -1347,13 +1337,13 @@ articles for genitive	m: του f: της n: του
 ηφαίστεια	volcano
 ουρανός	sky
 γαλαξίας	galaxy
-άμμος	sand
+άμμος	sand (f)
 τοπίο	landscape
 πέτρα	stone
 θάλασσα	sea
 ποτάμι	river
 βουνό	mountain
-σύμπαν	universe
+σύμπαν	universe (n)
 σύννεφο	cloud
 ξύλο	wood
 φύση	nature
@@ -1399,7 +1389,7 @@ articles for genitive	m: του f: της n: του
 απόσταση	distance
 δύση	west
 πυξίδα	compass
-τέρμα	end
+τέρμα	end (n)
 νότος	south [noun]
 βόρεια	north [adv.]
 αριστερά	left (direction)
@@ -1434,31 +1424,31 @@ articles for genitive	m: του f: της n: του
 κλωτσά	(it) kicks
 πόντος	point (score)
 φίλαθλος	(sports) fan
-γκολ	goal
+γκολ	goal (n)
 γυμναστήριο	gymnasium
 παίκτης	player
 επίθεση	attack
-άθλημα	sport
+άθλημα	sport (n)
 διαιτητής	referee
 εισιτήριο	ticket
 σουτ	shot (goal attempt)
-πρωτάθλημα	championship
+πρωτάθλημα	championship (n)
 πολυτιμότερος	most valuable
 δίχτυ	net
 ολυμπιακοί αγώνες	Olympic Games
-βήμα	step
+βήμα	step (n)
 αθλητής	athlete
 πετοσφαίριση	volleyball
 αρχηγός	leader
 οπαδοί	fans, followers
 αγώνας	game, match (sport)
 ποδόσφαιρο	football, soccer
-χάντμπολ	handball
-μπάσκετ	basketball
+χάντμπολ	handball (n)
+μπάσκετ	basketball (n)
 προπονητής	coach
 αθλητικά	athletic
 κύπελλο	cup (trophy)
-γκολφ	golf
+γκολφ	golf (n)
 άμυνα	defence
 μπάλα	ball
 # Arts
@@ -1466,7 +1456,7 @@ articles for genitive	m: του f: της n: του
 ποίηση	poetry
 τέχνη	art
 συλλογή	collection
-άγαλμα	statue
+άγαλμα	statue (n)
 ήχος	sound
 ζωγράφος	painter (artist)
 διαγωνισμός	contest
@@ -1479,7 +1469,7 @@ articles for genitive	m: του f: της n: του
 ταινία	movie
 λογοτεχνία	literature
 νότα	(musical) note
-πεζογράφημα	prose
+πεζογράφημα	prose (n)
 μουσική	music
 χορός	dance
 κινηματογράφος	movie theatre
@@ -1507,7 +1497,7 @@ articles for genitive	m: του f: της n: του
 κείμενο	text
 διαδίκτυο	internet
 δημοσιογράφος	journalist
-μήνυμα	message
+μήνυμα	message (n)
 σχόλιο	comment
 γραμματόσημο	(postage) stamp
 γλώσσα	language, tongue
@@ -1524,7 +1514,7 @@ articles for genitive	m: του f: της n: του
 μαλλί	hair
 θεραπεία	treatment
 δάχτυλα	fingers
-στόμα	mouth
+στόμα	mouth (n)
 καρκίνος	cancer
 πρόσωπο	face
 κεφάλι	head
@@ -1533,16 +1523,16 @@ articles for genitive	m: του f: της n: του
 ασθενοφόρο	ambulance
 φροντίδα	care (support)
 εγκέφαλος	brain
-σώμα	body
-αίμα	blood
-στήθος	chest
+σώμα	body (n)
+αίμα	blood (n)
+στήθος	chest (n)
 δίαιτα	diet
 αυτιά	ears
 φάρμακο	medicine
 όραση	eyesight, vision
 ώμος	shoulder
 κλινική	clinic
-δέρμα	skin
+δέρμα	skin (n)
 άρρωστος	sick
 νοσοκομείο	hospital
 μύτη	nose
@@ -1587,7 +1577,7 @@ articles for genitive	m: του f: της n: του
 πρόκειται να αγοράσω	(I am) going to buy
 πρόκειται να δω	(I am) going to see
 # Animals 2
-μαϊμού	monkey
+μαϊμού	monkey (f)
 φάλαινα	whale
 αλιγάτορας	alligator
 χταπόδι	octopus
@@ -1608,18 +1598,18 @@ articles for genitive	m: του f: της n: του
 γεράκι	hawk, falcon
 # Politics
 ολιγαρχία	oligarchy
-κράτος	nation, state
+κράτος	nation, state (n)
 εθνικός	national
 επιχείρηση	business
 κοινωνία	society
 στρατός	army
 υποψήφιος	candidate, nominee
-ψήφος	vote
+ψήφος	vote (f)
 αριστοκρατία	aristocracy
 σημαίνει	(it) means
 δήμαρχος	mayor
 βία	violence
-έγκλημα	crime
+έγκλημα	crime (n)
 δικαστήριο	court
 κοινοβούλια	parliaments
 δημοκρατία	democracy
@@ -1645,7 +1635,7 @@ articles for genitive	m: του f: της n: του
 διαμάντι	diamond
 χάλκινο	copper [adj.]
 πλαστικό	plastic
-κρύσταλλος	crystal
+κρύσταλλος	crystal (f)
 ασήμι	silver
 χαλκός	copper [noun]
 αλουμίνιο	aluminum
@@ -1665,13 +1655,13 @@ articles for genitive	m: του f: της n: του
 επιταγή	cheque
 αποταμίευση	saving (money)
 χρηματιστήριο	stock market
-πλεόνασμα	surplus
+πλεόνασμα	surplus (n)
 χρέη	debts
-νόμισμα	currency
+νόμισμα	currency (n)
 πληθωρισμός	inflation
 λογαριασμός	account
 οικονομικός	financial
-χρήμα	money
+χρήμα	money (n)
 κρίση	crisis
 ενοίκιο	rent
 νομισματική	monetary
@@ -1702,16 +1692,16 @@ articles for genitive	m: του f: της n: του
 μάζα	mass
 χημεία	chemistry
 ηλεκτρισμός	electricity
-συμπέρασμα	conclusion
-βάρος	weight
+συμπέρασμα	conclusion (n)
+βάρος	weight (n)
 ποιότητα	quality
 μονάδα	unit
 εργαστήριο	laboratory
-δείγμα	sample
+δείγμα	sample (n)
 φυσική	physics
 αύξηση	increase
 αιτία	cause
-βάθος	depth
+βάθος	depth (n)
 μέθοδος	method
 # Mathematics and Geometry
 μοίρες	degrees (angle)
@@ -1723,7 +1713,7 @@ articles for genitive	m: του f: της n: του
 ακτίνα	radius
 πρόσθεση	addition
 τετραγωνική ρίζα	square root
-κλάσμα	fraction
+κλάσμα	fraction (n)
 διαίρεση	division
 άλγεβρα	algebra
 ορθογώνιο	rectangle
@@ -1748,7 +1738,7 @@ articles for genitive	m: του f: της n: του
 θα έχω έρθει	(I) will have came
 θα έχω φάει	(I) will have eaten
 # History, Stories and Fantasy
-βέλος	arrow
+βέλος	arrow (n)
 δόρυ	spear
 μοχθηρός	vicious
 μάχη	battle
@@ -1785,7 +1775,7 @@ articles for genitive	m: του f: της n: του
 μετενσάρκωση	reincarnation
 μάγος	wizard
 πρόγονος	ancestor
-φάντασμα	ghost
+φάντασμα	ghost (n)
 ψυχολογία	psychology
 κατάθλιψη	depression
 προκατάληψη	prejudice
@@ -1802,12 +1792,12 @@ articles for genitive	m: του f: της n: του
 τιμή	price
 παγκόσμιος	global
 κοστίζει	(it) costs
-κόστος	cost
+κόστος	cost (n)
 πώληση	sale (transaction)
 προώθηση	promotion (marketing)
 εμπόριο	trade, commerce
 προσφορά	offer
-προϊόν	product
+προϊόν	product (n)
 μάρκα	brand
 συνάνρτηση	meeting
 διαφήμιση	advertisement
@@ -1862,12 +1852,12 @@ articles for genitive	m: του f: της n: του
 ελέγχουν	(they) control
 βενζίνη	petrol, gasoline
 τραίνο	train
-κράνος	helmet
+κράνος	helmet (n)
 τιμόνι	steering wheel
 πεζοδρόμιο	pavement
 διόδια	tolls
 αποσκευές	luggage
-αεροσυνοδός	flight attendant
+αεροσυνοδός	flight attendant (f)
 ταξί	taxi
 αμάξι	car
 καύσιμο	fuel
@@ -1886,15 +1876,15 @@ articles for genitive	m: του f: της n: του
 διαλεκτική	dialectic
 ρεαλιστής	realist(ic)
 πολιτική φιλοσοφία	political philosophy
-νόημα	meaning
+νόημα	meaning (n)
 θεωρία	theory
 μύθος	myth
 ηθική	ethics
 ιδρυτής	founder
 πεσιμιστής	pessimist(ic)
-δικαίωμα	(moral) right
+δικαίωμα	(moral) right (n)
 ακαδημία	academy
-συναίσθημα	feeling
+συναίσθημα	feeling (n)
 σκεπτικιστής	skeptic(al)
 λογική	logic
 διαφωτισμός	enlightenment
@@ -1906,11 +1896,11 @@ articles for genitive	m: του f: της n: του
 προτεσταντισμός	Protestantism
 ιουδαϊσμός	Judaism
 χριστιανικό	Christian [adj.]
-βίβλος	Βible
+βίβλος	Βible (f)
 προφήτης	prophet
 χριστούγεννα	Christmas
 ινδουισμός	Hinduism
-πάσχα	Easter
+πάσχα	Easter (n)
 τζαμί	mosque
 άγγελος	angel
 μουσουλμάνος	Muslim

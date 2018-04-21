@@ -470,10 +470,1388 @@ articles for genitive	m: του f: της n: του
 ενώ	while
 όταν	when
 πριν	before
-γιατί	why***
+γιατί	why
 επειδή	because
 αν	if/whether
 να	to
 για να	in order to
 που, πως, ότι*	that
 γιατί, επειδή, διό*τι	because
+σύζυγός	spouse
+νονός	godfather
+οικογένεια	family [noun]
+οικογενειακός	family [adj.]
+γονείς	parents
+θείος	uncle
+παππούς	grandfather
+μητέρα	mother
+συγγενής	relative
+νονά	godmother
+γιος	son
+αδελφός	brother
+ξάδερφος	cousin
+αδέλφια	siblings
+πατέρας	father
+κόρη	daughter
+γιαγιά	grandmother
+αδελφή	sister
+γάμος	marriage
+θεία	aunt
+τύπος	type (kind), guy
+τετάρτη	Wednesday
+χθες	yesterday
+ιανουάριος	January
+λεπτό	minute
+δεκαετία	decade
+περίοδος	period
+ιούλιος	July
+ημερομηνία	date
+σεπτέμβριος	September
+εβδομάδα	week
+πέμπτη	Thursday
+σήμερα	today
+παρασκευή	Friday
+οκτώβριος	October
+νοέμβριος	November
+μάιος	May
+απόψε	tonight
+ημερολόγιο	calendar
+φεβρουάριος	February
+σκηνή	stage
+τρίτη	Tuesday
+αύριο	tomorrow
+εποχή	season
+ιούνιος	June
+παζάρι	fair
+γενιά	generation
+απόγευμα	afternoon
+μέχρι	until
+λίγο	little
+φθινόπωρο	autumn
+ώρα	hour, time
+άνοιξη	spring
+καλοκαίρι	summer
+πάρτι	party
+χρόνος	year
+ημέρα	day
+δεκέμβριος	December
+νύχτα	night
+κυριακή	Sunday
+πρωί	morning
+ηλικία	age
+δευτέρα	Monday
+σάββατο	Saturday
+απρίλιος	April
+χειμώνας	winter
+φέτος	this year
+γέννηση	birth
+δευτερόλεπτο	second (time)
+στιγμή	moment
+αιώνας	century
+μάρτιος	March
+αύγουστος	August
+μήνας	month
+πέρυσι	last year
+μάγειρας	cook
+σερβιτόρος	waiter
+ηθοποιός	actor
+σερβιτόρα	waitress
+αστυνομικός	police officer
+επάγγελμα	profession
+δικηγόρος	lawyer
+καλλιτέχνης	artist
+μηχανικός	engineer, mechanic
+προϊστάμενος	supervisor
+προσωπικό	staff, personnel (n)
+γιατρός	doctor
+αξιωματικός	officer
+μαθητής	school student
+αστυνομία	police (force)
+στρατιώτης	soldier
+δικαστής	judge
+καπετάνιος	captain
+συγγραφέας	writer
+γραμματέας	secretary
+μοντέλο	model (n)
+φύλακας	guard
+επαγγελματίας	professional
+καριέρα	career
+αφεντικό	boss (n)
+συντάκτης	editor
+εργάτης	worker
+αγρότης	farmer
+διευθυντής	director
+αρχιτέκτονας	architect
+δουλειά	job
+εργασία	work
+μελλοντικός	future [adj.]
+διαθέσιμος	available
+φυσιολογική	normal
+πιθανός	possible
+ίδιος	same
+δίγλωσσος	bilingual
+υπεύθυνος	responsible
+ιστορική	historical
+ακριβός	expensive
+πραγματικός	real
+βασικός	main, basic
+ανθρώπινος	human
+διαφορετικός	different
+ανεξάρτητος	independent
+ξύλινος	wooden
+τελικός	final
+προσωπικός	personal
+απαραίτητος	necessary
+δημοφιλής	popular
+αριστερός	left (side)
+σημαντικός	important
+ωραίος	nice
+στρατιωτικός	military
+ανοιχτός	open
+γενική	general (generic)
+γρήγορος	fast [adj.]
+δύσκολος	difficult
+ιδιαίτερος	special
+νόμιμος	legal
+χαρούμενος	happy
+καθαρός	clean, pure
+κουρασμένος	tired
+ολόκληρο	whole
+σύγχρονο	modern
+ιδιωτικός	private
+πολιτιστική	cultural
+ενδιαφέρων	interesting
+πρόσφατος	recent
+όμορφος	beautiful
+διάσημος	famous
+ζέστη	warm, hot
+ζωντανός	alive, live
+εύκολος	easy
+βρώμικη	dirty
+άριστος	excellent
+τοπικό	local
+επόμενο	next (following)
+τέλειος	perfect
+θετικό	positive
+επίσημος	official, formal
+αποτυγχάνω	(Ι) fail
+κοιτάζω	(I) look at
+ανοίγω	(I) open
+ψάχνω	(I) look for
+μελετώ	(I) study
+συμπεριλαμβάνω	(I) include
+αλλάζω	(Ι) change
+σταματάω	(Ι) stop
+δοκιμάζω	(I) try
+ζω	(I) live
+ακολουθώ	(Ι) follow
+ρωτάω	(Ι) ask
+υπογράφουν	(they) sign
+στέλνω	(I) sends
+εύχομαι	(I) wish
+νομίζω	(I) think
+πιστεύει	(it) believes
+ελπίζω	(I) hope
+προσφέρω	(I) offer
+παρουσιάζω	(I) present
+θυμάστε	(you) remember [pl.]
+σώζω	(I) save
+δουλεύουν	(they) work
+επιστρέφουν	(they) return
+καλώ	(I) calls
+ανατρέφω	(I) raise
+δίνω	(Ι) give
+έρχομαι	(I) come
+νιώθω	(I) feel
+νεροχύτης	sink
+χαλί	carpet (n)
+φωτιστικό	lamp (furniture)
+τουαλέτα	toilet
+αποθήκη	store room (f)
+πολυθρόνα	armchair
+μπαλκόνι	balcony (f)
+οροφή	ceiling (f)
+βρύση	tap, faucet (f)
+ντουλάπα	wardrobe, closet
+σπίτι	house, home (n!)
+κουρτίνα	curtain
+ψυγείο	refrigerator (n)
+παράθυρο	window (n)
+ντους	shower (n!)
+μαξιλάρι	pillow, cushion (n)
+έπιπλο	(piece of) furniture (n)
+λάμπα	lamp (light bulb)
+πετσέτα	towel
+κήπος	garden
+καρέκλα	chair
+πάτωμα	floor (n!)
+αυλή	yard (f)
+τοίχος	wall
+χολ	hall (n)
+οδοντόκρεμα	toothpaste
+σαλόνι	living room (n)
+πόρτα	door
+βιβλιοθήκη	library, bookcase (f)
+τραπεζαρία	dining room
+οδοντόβουρτσα	toothbrush
+σαπούνι	soap (n)
+κλειδί	key (n)
+σκάλα	stairs
+σοφίτα	attic
+φως	light
+φούρνος	oven
+δωμάτιο	room (n)
+υπνοδωμάτιο	bedroom (n)
+κουζίνα	kitchen
+κρεβάτι	bed (n)
+γραφείο	desk, office (n)
+καθρέφτης	mirror
+καναπές	sofa
+οθόνη	screen
+κομμάτι	piece
+πράγμα	thing (n!)
+ψαλίδι	scissors
+κουτί	box
+μυθιστόρημα	novel (n!)
+ραδιόφωνο	radio
+οδοντόπαστα	toothpaste
+αντικείμενο	object
+σημαία	flag
+ομπρέλα	umbrella
+ντουλάπι	cupboard
+τηλεόραση	television
+χτένα	comb
+κινητό	mobile phone
+δώρο	gift
+τραπέζι	table
+καλάθι	basket
+ρολόι	clock, watch
+ρίζα	root
+κουτάλι	spoon
+μηχανή	engine, machine
+καμπάνα	bell
+μπουκάλι	bottle
+κούπα	cup
+τσάντα	bag
+μαχαίρι	knife
+σφουγγάρι	sponge
+μπολ	bowl (n)
+μπαταρία	battery
+σκεπή	roof
+περιοδικό	magazine
+πισίνα	(swimming) pool
+αλυσίδα	chain
+υπολογιστής	computer
+τηγάνι	pan
+ξυράφι	razor
+πιρούνι	fork
+σεντόνι	sheet
+χαρτί	paper
+ρόδα	wheel
+απαντώ	(Ι) answer
+εμπιστεύομαι	(I) trust
+φαίνομαι	(I) seem
+ξεκουράζομαι	(I) rest
+γεμίζω	(I) fill
+πονάω	(I) hurt
+συνεχίζω	(I) continue
+τελειώνω	(I) finish
+περνώ	(I) pass
+υποστηρίζω	(I) support
+δίνει	(it) gives
+ξοδεύω	(I) spend
+προσπαθεί	(it) tries
+ξεκινώ	(I) begin
+επιτέλους	finally
+τότε	then
+όσο	as long as
+γρήγορα	fast [adv.]
+κάποιες φορές	sometimes
+πολύ	very
+εύκολα	easily
+μόνο	only
+αρκετά	enough [adv.]
+παρά	too
+μακριά	far (away)
+σχεδόν	almost
+πάντα	always
+πραγματικά	really
+ούτε	neither, nor
+συνήθως	usually
+εκεί	there
+πιθανώς	possibly
+τελείως	completely
+περισσότερο	more
+επίσης	also
+μαζί	together
+σύντομα	soon
+ξανά	again
+τώρα	now
+έτσι	so
+εδώ	here
+αργά	late, slowly
+ακόμα	still, more
+οπουδήποτε	whenever [adv.]
+ποτέ	never, ever
+τουλάχιστον	at least
+πρόσφατα	recently
+τέλεια	perfectly
+φυσιολογικά	normally, naturally
+αργότερα	later
+γενικά	generally
+φορά	time [adv.]
+άλλο	else, other
+σιγά	slowly
+απλώς	just
+ακριβώς	exactly
+ειδικά	especially
+περίπου	approximately
+τόσο	so, such
+μαγείρεψες	(you) cooked [sing.]
+τελείωσα	(I) finished
+είπε	(it) said
+έδωσα	(I) gave
+βρήκα	(I) found
+έγραψε	(it) wrote
+απάντησα	(I) answered
+ήπιαμε	(we) drank
+είδες	(you) saw [sing.]
+έπαιξα	(I) played
+πήρα	(I) took
+άκουσα	(I) heard
+μίλησα	(I) spoke
+νίκησα	(I) won
+πήγα	(I) went
+ήρθα	(I) came
+σταμάτησε	(it) stopped
+άνοιξα	(I) opened
+χρησιμοποίησα	(I) used
+ήθελα	(I) wanted
+είχα	(I) had
+ήταν	(it) was, (they) were
+αγόρασα	(I) bought
+έμεινε	(it) stayed
+έφαγα	(I) ate
+έκανα	(I) did, (I) made
+κάνει	do, make [inf.]
+γράφει	write [inf.]
+περπατώ	walk [inf.]
+πηγαίνω	go [inf.]
+γίνω	become [inf.]
+ακούσει	hear [inf.]
+λέω	see [inf.]
+ρωτώ	ask [inf.]
+δώσει	give [inf.]
+βλέπε	see [imp.]
+φέρε	bring [imp.]
+μάθε	learn [imp.]
+ρώτα	ask [imp.]
+πείτε	speak [imp.]
+φάε	eat [imp.]
+άκουσε	listen [imp.]
+κλείσε	close [imp.]
+περπατήστε	walk [imp.]
+απάντησε	answer [imp.]
+τρέχε	run [imp.]
+χρησιμοποίησε	use [imp.]
+βρες	find [imp.]
+γράφε	write [imp.]
+μαγείρεψε	cook [imp.]
+σταμάτα	stop [imp.]
+βάλε	put [imp.]
+πάρτε	take [imp.]
+έλα	come [imp.]
+δώσε	give [imp.]
+νησί	island
+φυλακή	prison
+έδαφος	ground (n)
+περιοχή	area
+λιμάνι	harbour, port
+λεωφόρος	avenue (f)
+ξενοδοχείο	hotel
+ιδιοκτησία	property
+πόλη	city
+κτίριο	building
+χώρα	country
+μπάνιο	bathroom
+κωμόπολη	town
+πλατεία	(public) square
+διεύθυνση	address, direction
+ζώνη	zone
+τοποθεσία	site (location)
+κοιλάδα	valley
+φάρμα	farm
+κέντρο	centre
+μπαρ	bar
+νεκροταφείο	cemetery
+διαδρομή	route
+εστιατόριο	restaurant
+κάστρο	castle
+δρόμος	road
+πάρκο	park
+γωνία	corner, angle
+αγορά	market, purchase
+παραλία	beach
+ζωολογικός	zoological
+πύργος	tower
+μουσείο	museum
+τμήμα	department (n)
+ελλάδα	Greece
+ακτή	coast
+μπροστά	forward, ahead, front
+μέρος	place, part (n)
+σταθμός	station
+δεξιά	right (direction)
+κορυφή	top, peak
+αεροδρόμιο	airport
+τράπεζα	bank
+περιφέρεια	district
+βορράς	north [noun]
+εκκλησία	church
+σινεμά	cinema (n)
+εσωτερικό	interior
+χωριό	village
+γειτονιά	neighbourhood
+κοπέλα	young woman
+θύμα	victim (n)
+επιτροπή	committee
+άνθρωποι	people
+ζευγάρι	couple
+πληθυσμός	population
+κουλτούρα	culture (values, customs)
+μωρό	baby
+φίλος	friend [m.]
+άνθρωπος	human being
+άτομο	person
+νεολαία	youth
+κυρία	lady
+ίδρυμα	foundation (n)
+πολίτης	citizen
+σχέση	relationship
+φίλη	friend [f.]
+συνέδριο	conference
+κοινό	public
+εχθρός	enemy
+αδύνατο	impossible
+κρύο	cold
+αποδοτική	efficient, effective
+φοβισμένος	afraid
+παραδοσιακό	traditional
+θλιμμένος	sad
+σωστός	correct
+θρήσκα	religious
+επικίνδυνο	dangerous
+άσχημη	ugly
+αντίθετο	opposite (contrary)
+αρνητικό	negative
+ψηλό	tall, high
+λανθασμένη	wrong
+κοντό	short
+ξένος	foreign, strange
+σοβαρό	serious
+βολικό	comfortable, convenient
+γενναία	brave
+αργό	slow
+οικείο	familiar
+αγαπημένος	favourite
+πολλή	a lot of, much
+αρχαία	ancient
+παλιά	old
+νέο	young, new
+έτοιμος	ready
+συχνό	frequent
+ελάχιστο	minimum, minimal
+φτηνό	cheap
+τριάντα	thirty
+δεύτερος	second (order)
+μισό	half
+ένα	one
+παραπέρα	beyond
+δύο	two
+νούμερο	number, size
+τρία	three
+μερικοί	some
+σύνολο	total
+χιλιάδες	thousands
+δεκαεννιά	nineteen
+μέτρο	metre
+δεκατρία	thirteen
+εκατομμύριο	million
+έξι	six
+δεκαεπτά	seventeen
+εξήντα	sixty
+ενενήντα	ninety
+πολλοί	many [m., pl.]
+δώδεκα	twelve
+τελευταίος	last, final
+εκατό	hundred
+πενήντα	fifty
+ψηφίο	digit
+τέταρτο	fourth
+σαράντα	forty
+πλειοψηφία	majority
+αριθμός	number, digit
+δεκαπέντε	fifteen
+αρκετό	enough [adj.]
+άπειρο	infinity
+τρίτος	third
+ανά	per
+οχτώ	eigth
+μέσος	middle, average
+πέντε	five
+επτά	seven
+μηδέν	zero
+δεκαέξι	sixteen
+εβδομήντα	seventy
+ογδόντα	eighty
+έντεκα	eleven
+δεκαοχτώ	eighteen
+δέκα	ten
+εννέα	nine
+τέσσερα	four
+πρώτος	first
+δεκατέσσερα	fourteen
+άθροισμα	sum
+ποσό	amount
+είκοσι	twenty
+λέγεται	(it) is said
+απαγορεύεται	(it) is forbidden
+πληρώνεται	(it) is paid
+βρισκεται	(it) is found
+σχεδιάζονται	(they) are designed
+βρέχεται	(it) gets wet
+ονειρεύονται	(they) are dreaming
+βαριέμαι	(I) am bored
+ακούγεται	(it) is heard
+μαγειρεύεται	(it) is cooked
+πίνεται	(it) is drunk
+φοριέται	(it) is worn
+διαβάζεται	(it) is read
+χρησιμοποιείται	(it) is used
+κάθεται	(it) is sitting
+ομιλούνται	(it) is spoken
+φαντάζομαι	(Ι) imagine
+γράφεται	(it) is written
+τρώγεται	(it) is eaten
+αναφερόμαστε	(we) refer to
+τους οποίους	whom [m., pl.]
+των οποίων	of whom, of whose [pl.]
+ο οποίος	who, which [m., sing.]
+οι οποίοι	who , which [m., pl.]
+όπου	wherever
+η οποία	who, which [f., sing.]
+που	which, that
+ό,τι	whatever
+τον οποίον	whom [m., sing.]
+του οποίου	of whom, of which [m., n., sing.]
+το οποίο	which [n., sing.]
+σε ποιον	to whom [m., sing.]
+όχημα	vehicle (n)
+αυτοκίνητο	car
+μοτοσικλέτα	motorcycle
+ισπανικά	Spanish
+μετρό	subway
+τρένο	train
+αναχώρηση	departure
+γαλλία	France
+λεωφορείο	bus
+γερμανία	Germany
+χάρτης	map
+κίνα	China
+ταξιδεύω	(I) travel
+διεθνές	international
+ρωσία	Russia
+διαβατήριο	passport
+πτήση	flight
+πλοίο	ship
+ταξίδι	journey
+τουρκία	Turkey
+ιταλία	Italy
+αμερική	America
+βάρκα	boat
+ευρώπη	Europe
+τουρίστας	tourist
+γέφυρα	bridge
+βαλίτσα	suitcase
+αυστραλία	Australia
+αγγλία	England
+ποδήλατο	bicycle
+περιπέτεια	adventure
+αεροπλάνο	airplane
+ακολούθησα	(I) followed
+θυμήθηκα	(I) remembered
+ρώτησα	(I) asked
+αγάπησε	(it) loved
+πρόσθεσα	(I) added
+μου άρεσε	I liked (it)
+ένιωσα	(I) felt
+έφυγα	(I) left
+ήξερε	(it) knew
+καλύτερος	best
+μεγαλύτερος	bigger
+μακρύτερο	longer
+μικρότερη	smaller
+μέγιστος	maximum
+φθηνότερος	cheaper
+απλούστερος	simplest
+γρηγορότερος	faster
+δυσκολότερος	harder
+παλαιότερο	older
+νεότατος	youngest, newest
+πιο φθηνός	cheapest
+νεότερος	younger, newer
+τεράστιος	huge
+τριπλός	triple
+κιλά	kilos
+μίλι	mile
+ζυγίζω	(I) weigh
+τόνοι	tonnes
+πλάτος	width (n)
+εκατοστό	centimetre
+γραμμάριο	gram
+μήκος	length (n)
+μεγάλος	big
+μέτρα	metres
+χιλιόμετρο	kilometre
+πλατύς	wide
+διπλός	double
+λίτρο	litre
+μεταπτυχιακό	postgraduate
+κεφάλαιο	chapter
+διδακτορικό	doctorate
+σπουδές	studies
+διάλεξη	lecture
+παρουσίαση	presentation (speech)
+σχολείο	school
+διδασκαλία	teaching
+καθηγητής	professor, school teacher (secondary, high )
+πανεπιστήμιο	university
+εξάμηνο	semester
+στόχος	objective
+ινστιτούτο	institute
+τεστ	test
+γνώσεις	knowledge
+κολλέγιο	college
+πρόγραμμα	program (n)
+μάθημα	lesson (n)
+προτάση	sentence, proposal
+ιστορία	history, story
+παράδειγμα	example (n)
+έγγραφο	document
+σελίδα	page
+ιδέα	idea
+εκπαίδευση	education
+παραμύθι	fairy tale
+δάσκαλος	school teacher (primary, elementary)
+ποίημα	poem (n)
+ευγένεια	courtesy
+παράσταση	presentation (performance)
+λίστα	list
+ευρωπαϊκή	european
+λάθος	error (n)
+λύση	solution
+προφίλ	profile
+ομάδα	team
+ένωση	union
+άκρη	edge
+πλευρά	side
+θάνατος	death
+υποκείμενο	subject
+σκοτάδι	darkness
+συμφωνία	agreement
+παραγωγή	production
+νέα	news (current events)
+ξεκούραση	rest
+περίπτωση	situation
+ελευθερία	freedom
+επιτυχία	success
+φωνή	voice
+ρεκόρ	record (n)
+απόδειξη	proof
+εξοπλισμός	equipment
+βραβείο	prize
+εικόνα	image
+ελπίδα	hope
+αγάπη	love
+κατασκευή	construction
+ευκαιρία	opportunity
+σύστημα	system (n)
+πρόβλημα	problem (n)
+χρέωση	charge
+αποτέλεσμα	result (n)
+κατηγορία	category
+θέα	view (scene)
+πτυχίο	degree (academic)
+μέλος	member (n)
+ευχή	wish
+περιγραφή	description
+επιλογή	choice
+δραστηριότητα	activity
+είσοδος	entrance
+περιεχόμενο	content
+προστασία	protection
+εισαγωγή	introduction
+έχω ακούσει	(I) have heard
+έχω αγαπήσει	(I) have loved
+έχω ακολουθήσει	(I) have followed
+έχω κάνει	(I) have done, (I) have made
+έχω δώσει	(I) have given
+έχω σταματήσει	(I) have stopped
+έχω δει	(I) have seen
+έχω φάει	(I) have eaten
+έχω νικήσει	(I) have won
+έχω πάει	(I) have gone
+έχω φύγει	(I) have left
+έχω πάρει	(I) have gotten
+έχω έρθει	(I) have come
+έχω τελειώσει	(I) have finished
+έχω χρησιμοποιήσει	(I) have used
+έχω γράψει	(I) have written
+έχω απαντήσει	(I) have answered
+έχω πει	(I) have said
+έχω γίνει	(I) have become
+έχω μιλήσει	(I) have spoken
+έχω παίξει	(I) have played
+έχω βρει	(I) have found
+έχω μαγειρέψει	(I) have cooked
+θρησκεία	religion
+ψέμα	lie (n)
+μίσος	hate (n)
+αλήθεια	truth
+εμπειρία	experience
+ευθύνη	responsibility
+κατάσταση	condition
+συζήτηση	conversation
+μυστικό	secret
+σκιά	shadow
+έξοδος	exit (f)
+σεβασμός	respect
+ντελίβερι	delivery
+τίτλος	title
+πραγματικότητα	reality
+δράση	action
+όφελος	benefit (n)
+κατεύθυνση	direction
+δύναμη	strength
+θέση	position
+κίνηση	traffic
+πίστη	faith
+συμπεριφορά	behaviour
+πόθος	desire
+πιθανότητα	possibility
+σχήμα	shape (n)
+απόφαση	decision
+ευχαρίστηση	pleasure
+σύμβολο	symbol
+ζημιά	damage
+διάστημα	space (n)
+υπογραφή	signature
+προέλευση	origin
+θόρυβος	noise
+σύνθημα	cue (n)
+προσπάθεια	try (attempt)
+έκπληξη	surprise
+σκοπός	purpose
+φράση	phrase
+αμφιβολίες	doubts
+φόβος	fear
+μνήμη	memory
+χιούμορ	humour (n)
+χαρακτήρας	character
+ενδιαφέρον	interest (n)
+ακολουθία	order
+καλλιέργεια	cultivation
+δέντρο	tree
+ήλιος	sun
+φυτό	plant
+καιρός	weather
+σκόνη	dust
+κόσμος	world
+κάμπος	plain
+δάσος	forest (n)
+αέρας	air
+φύλλο	leaf
+κλίμα	climate (n)
+αστέρι	star
+τυφώνας	hurricane
+φεγγάρι	moon
+περιβάλλον	environment (n)
+χωράφι	field (land)
+λίμνη	lake
+σεισμός	earthquake
+καπνός	smoke
+γη	land
+πλημμύρα	flood
+φωτιά	fire
+γρασίδι	grass
+τριαντάφυλλο	rose
+πλανήτης	planet
+ηφαίστεια	volcano
+ουρανός	sky
+γαλαξίας	galaxy
+άμμος	sand (f)
+τοπίο	landscape
+πέτρα	stone
+θάλασσα	sea
+ποτάμι	river
+βουνό	mountain
+σύμπαν	universe (n)
+σύννεφο	cloud
+ξύλο	wood
+φύση	nature
+βροχή	rain
+χιονοστιβάδα	avalanche
+είχα τελειώσει	(I) had finished
+είχα παίξει	(I) had played
+είχα χρησιμοποιήσει	(I) had used
+είχα απαντήσει	(I) had answered
+είχα μιλήσει	(I) had spoken
+είχα μαγειρέψει	(I) had cooked
+είχα δώσει	(I) had given
+είχα σταματήσει	(I) had stopped
+είχα πάει	(I) had gone
+είχα έρθει	(I) had come
+είχα φάει	(I) had eaten
+είχα δει	(I) had seen
+είχα πει	(I) had said
+είχα γράψει	(I) had written
+είχα ακολουθήσει	(I) had followed
+είχα ακούσει	(I) had heard
+είχα βρει	(I) had found
+είχα πάρει	(I) had taken
+είχα νικήσει	(I) had won
+είχε κάνει	(it) had done, (it) had made
+είχα φύγει	(I) had left
+είχε γίνει	(it) had become
+ο ίδιος	himself
+τον εαυτό μου	myself [acc.]
+η ίδια	herself
+ο εαυτός σου	yourself
+τους εαυτούς μας	ourselves [acc.]
+εμείς οι ίδιοι	(we) ourselves
+αυτοί οι ίδιοι	(they) themselves
+εσείς οι ίδιοι	(you) yourselves
+του εαυτού του	himself [gen.]
+το ίδιο	itself
+εγώ ο ίδιος	(I) myself
+στρίβω	(I) turn
+απόσταση	distance
+δύση	west
+πυξίδα	compass
+τέρμα	end (n)
+νότος	south [noun]
+βόρεια	north [adv.]
+αριστερά	left (direction)
+ευθεία	straight
+ανατολή	east
+νότια	south [adv.]
+διπλανός	next (adjacent)
+απέναντι	opposite (position)
+αρχή	start
+μπροστινός	in front
+να σκέφτομαι	thinking
+να κάνω	doing, making
+να περπατώ	walking
+να μιλώ	speaking
+να έχω	having
+να γράφει	writing
+να διαβάζω	reading
+να τρώω	eating
+να δίνει	giving
+να πηγαίνω	going
+να κοιμάται	sleeping
+να αγγίζω	touching
+να περιμένει	waiting
+να σταμάτα	stopping
+να προσπαθώ	trying
+σκοράρω	(I) score
+γήπεδο	field (sport)
+τένις	tennis
+πάσα	pass
+κλωτσά	(it) kicks
+πόντος	point (score)
+φίλαθλος	(sports) fan
+γκολ	goal (n)
+γυμναστήριο	gymnasium
+παίκτης	player
+επίθεση	attack
+άθλημα	sport (n)
+διαιτητής	referee
+εισιτήριο	ticket
+σουτ	shot (goal attempt)
+πρωτάθλημα	championship (n)
+πολυτιμότερος	most valuable
+δίχτυ	net
+ολυμπιακοί αγώνες	Olympic Games
+βήμα	step (n)
+αθλητής	athlete
+πετοσφαίριση	volleyball
+αρχηγός	leader
+οπαδοί	fans, followers
+αγώνας	game, match (sport)
+ποδόσφαιρο	football, soccer
+χάντμπολ	handball (n)
+μπάσκετ	basketball (n)
+προπονητής	coach
+αθλητικά	athletic
+κύπελλο	cup (trophy)
+γκολφ	golf (n)
+άμυνα	defence
+μπάλα	ball
+βιολί	violin
+ποίηση	poetry
+τέχνη	art
+συλλογή	collection
+άγαλμα	statue (n)
+ήχος	sound
+ζωγράφος	painter (artist)
+διαγωνισμός	contest
+φωτογραφία	photograph
+πολιτισμός	culture (artistic, intellectual)
+θέατρο	theatre
+φλάουτο	flute
+φυσαρμόνικα	harmonica
+λύρα	lyre
+ταινία	movie
+λογοτεχνία	literature
+νότα	(musical) note
+πεζογράφημα	prose (n)
+μουσική	music
+χορός	dance
+κινηματογράφος	movie theatre
+συναυλία	concert
+μουσικό όργανο	musical instrument
+πρόβα	rehersal
+ορχήστρα	orchestra
+έκθεση	exhibition
+παρακολουθώ	(I) watch
+θεατρικό έργο	theatrical play
+όπερα	opera
+ζωγραφική	painting (creation of)
+πίνακας	painting (work of art)
+κάμερα	camera
+πιάνο	piano
+τραγούδι	song
+κιθάρα	guitar
+δίκτυο	network
+πληροφορία	information
+κανάλι	channel
+επικοινωνία	communication
+αναζήτηση	search
+συνέντευξη	interview
+κείμενο	text
+διαδίκτυο	internet
+δημοσιογράφος	journalist
+μήνυμα	message (n)
+σχόλιο	comment
+γραμματόσημο	(postage) stamp
+γλώσσα	language, tongue
+επιστολή	letter [formal]
+διάλογος	dialogue
+είδηση	news (broadcast)
+ταχυδρομική κάρτα	postcard
+πλάτη	back
+ασθένεια	disease
+βοήθεια	help (aid)
+ιός	virus
+μάτι	eye
+μαλλί	hair
+θεραπεία	treatment
+δάχτυλα	fingers
+στόμα	mouth (n)
+καρκίνος	cancer
+πρόσωπο	face
+κεφάλι	head
+χείλη	lips
+χέρι	hand
+ασθενοφόρο	ambulance
+φροντίδα	care (support)
+εγκέφαλος	brain
+σώμα	body (n)
+αίμα	blood (n)
+στήθος	chest (n)
+δίαιτα	diet
+αυτιά	ears
+φάρμακο	medicine
+όραση	eyesight, vision
+ώμος	shoulder
+κλινική	clinic
+δέρμα	skin (n)
+άρρωστος	sick
+νοσοκομείο	hospital
+μύτη	nose
+ανάγκη	need
+πόδια	legs, feet
+υγεία	health
+καρδιά	heart
+δόντι	tooth
+θα ξεκινήσω	(I) will start
+θα ακολουθήσω	(I) will follow
+θα παίξω	(I) will play
+θα μαγειρέψω	(I) will cook
+θα νικήσω	(I) will win
+θα πω	(I) will say
+θα χρησιμοποιήσω	(I) will use
+θα φάω	(I) will eat
+θα πάω	(I) will go
+θα κάνω	(I) will do, (I) will make
+θα έρθω	(I) will come
+θα είμαι	(I) will be
+θα δώσω	(I) will give
+θα γίνω	(I) will become
+θα μιλήσω	(I) will speak
+θα φύγω	(I) will leave
+θα απαντήσω	(I) will answer
+θα δω	(I) will see
+θα γράψω	(I) will write
+θα βρω	(I) will find
+πρόκειται να πιώ	(I am) going to drink
+πρόκειται να περιμένω	(I am) going to wait
+πρόκειται να διαβάσω	(I am) going to read
+πρόκειται να βρω	(I am) going to find
+πρόκειται να είμαι	(I am) going to be
+πρόκειται να πάω	(I am) going to say
+πρόκειται να γράψω	(I am) going to write
+πρόκειται να υποστηρίξω	(I am) going to support
+πρόκειται να φύγω	(I am) going to leave
+πρόκειται να βοηθήσω	(I am) going to help
+πρόκειται να φάω	(I am) going to eat
+πρόκειται να αγοράσω	(I am) going to buy
+πρόκειται να δω	(I am) going to see
+μαϊμού	monkey (f)
+φάλαινα	whale
+αλιγάτορας	alligator
+χταπόδι	octopus
+σαλιγκάρι	snail
+κροκόδειλος	crocodile
+φίδι	snake
+κουνέλι	rabbit
+δελφίνι	dolphin
+γουρούνι	pig
+πρόβατο	sheep
+καρχαρίας	shark
+βάτραχος	frog
+χαμαιλέων	chameleon
+γάιδαρος	donkey
+ρινόκερος	rhinoceros
+κατσίκα	goat
+ιπποπόταμος	hippopotamus
+γεράκι	hawk, falcon
+ολιγαρχία	oligarchy
+κράτος	nation, state (n)
+εθνικός	national
+επιχείρηση	business
+κοινωνία	society
+στρατός	army
+υποψήφιος	candidate, nominee
+ψήφος	vote (f)
+αριστοκρατία	aristocracy
+σημαίνει	(it) means
+δήμαρχος	mayor
+βία	violence
+έγκλημα	crime (n)
+δικαστήριο	court
+κοινοβούλια	parliaments
+δημοκρατία	democracy
+γνώμη	opinion
+κογκρέσου	congress
+νόμοι	laws
+εκλογές	elections
+κυβέρνηση	government
+υπουργός	minister, secretary (political)
+πόλεμος	war
+πρόεδρος	president
+ειρήνη	peace
+πρωθυπουργός	prime minister
+οικονομία	economy
+κυβερνήτης	governor
+ασφάλεια	safety
+επενδύσεις	investments
+πυρίτιο	silicon
+μέταλλο	metal
+αέριο	gas
+ρουμπίνι	ruby
+διαμάντι	diamond
+χάλκινο	copper [adj.]
+πλαστικό	plastic
+κρύσταλλος	crystal (f)
+ασήμι	silver
+χαλκός	copper [noun]
+αλουμίνιο	aluminum
+γυαλί	glass (material)
+τσιμέντο	cement
+σίδηρος	iron
+χρυσός	gold
+σμαράγδι	emerald
+στερεό	solid
+μόριο	molecule
+ορυκτό	mineral, ore
+υγρό	liquid
+κεραμικό	ceramic
+υλικό	material
+πιστωτική κάρτα	credit card
+επιταγή	cheque
+αποταμίευση	saving (money)
+χρηματιστήριο	stock market
+πλεόνασμα	surplus (n)
+χρέη	debts
+νόμισμα	currency (n)
+πληθωρισμός	inflation
+λογαριασμός	account
+οικονομικός	financial
+χρήμα	money (n)
+κρίση	crisis
+ενοίκιο	rent
+νομισματική	monetary
+δάνειο	loan
+όριο	limit
+επιστημονική	scientific
+μείωση	decrease
+θερμοκρασία	temperature
+ταχύτητα	speed
+ανακάλυψη	discovery
+ποσότητα	quantity
+ορισμός	definition
+τεχνολογία	technology
+επιστήμονας	scientist
+ανάλυση	analysis
+εφεύρεση	invention
+βιολογία	biology
+όγκος	volume
+λεπτομέρειες	details
+επιστήμη	science
+επιφάνεια	surface
+ανακύκλωση	recycling
+γεωγραφία	geography
+τεχνική	technique
+ενέργεια	energy
+κύκλος	circle
+μάζα	mass
+χημεία	chemistry
+ηλεκτρισμός	electricity
+συμπέρασμα	conclusion (n)
+βάρος	weight (n)
+ποιότητα	quality
+μονάδα	unit
+εργαστήριο	laboratory
+δείγμα	sample (n)
+φυσική	physics
+αύξηση	increase
+αιτία	cause
+βάθος	depth (n)
+μέθοδος	method
+μοίρες	degrees (angle)
+κύβος	cube
+γεωμετρικό	geometric
+τριγωνικό	triangular
+μαθηματικά	mathematics
+πολλαπλασιασμός	multiplication
+ακτίνα	radius
+πρόσθεση	addition
+τετραγωνική ρίζα	square root
+κλάσμα	fraction (n)
+διαίρεση	division
+άλγεβρα	algebra
+ορθογώνιο	rectangle
+τετράγωνο	square (shape)
+πυραμίδα	pyramid
+αφαίρεση	subtraction
+γεωμετρία	geometry
+τρίγωνο	triangle
+πολύγωνο	polygon
+πυθαγόρειο θεώρημα	Pythagorean theorem
+θα έχω τελειώσει	(I) will have finished
+θα έχω δει	(I) will have seen
+θα έχω φέρει	(I) will have brought
+θα έχω βρει	(I) will have found
+θα έχω αγοράσει	(I) will have bought
+θα έχω διαβάσει	(I) will have read
+θα έχω πει	(I) will have said
+θα έχω μιλήσει	(I) will have spoken
+θα έχω γράψει	(I) will have written
+θα έχω φύγει	(I) will have left
+θα έχω έρθει	(I) will have came
+θα έχω φάει	(I) will have eaten
+βέλος	arrow (n)
+δόρυ	spear
+μοχθηρός	vicious
+μάχη	battle
+σπαθί	sword
+πρίγκιπας	prince
+τραυμάτισε	(it) injured
+νίκη	victory
+όπλο	weapon
+ασπίδα	shield
+θησαυρός	treasure
+βασιλιάς	king
+αντίσταση	resistance
+δράκος	dragon
+ήττα	defeat
+γαλλική	French
+ιππότης	knight
+εγκαταλειμμένος	abandoned
+ναός	temple
+τόξο	bow
+επανάσταση	revolution
+σκοτώνω	(I) kill
+κανόνι	cannon
+στρατηγός	general (military)
+πολεμιστής	warrior
+φρούριο	fortress
+αρχαία ελλάδα	Ancient Greece
+νεκρός	dead
+θεός	god
+παρελθόν	past
+μέλλον	future [noun]
+στοιχειωμένο	haunted
+παρόν	present
+μετενσάρκωση	reincarnation
+μάγος	wizard
+πρόγονος	ancestor
+φάντασμα	ghost (n)
+ψυχολογία	psychology
+κατάθλιψη	depression
+προκατάληψη	prejudice
+αρετή	virtue
+μοίρα	fate
+δεισιδαιμονία	superstition
+δολάριο	dollar
+έκπτωση	discount (price)
+οργανισμός	organisation
+βιομηχανία	industry
+ευρώ	euro(s)
+εταιρεία	company (business)
+τιμή	price
+παγκόσμιος	global
+κοστίζει	(it) costs
+κόστος	cost (n)
+πώληση	sale (transaction)
+προώθηση	promotion (marketing)
+εμπόριο	trade, commerce
+προσφορά	offer
+προϊόν	product (n)
+μάρκα	brand
+συνάνρτηση	meeting
+διαφήμιση	advertisement
+μπορούν	(they) can
+θα μπορέσω	(I) will be able
+μπορώ	(I) can
+δεν μπορούμε	(we) cannot
+θα μπορούσες	(you) could [sing.]
+πρέπει	should, must
+θα μπορέσει	(it) will be able
+θα μπορούσα	(I) could
+δεν μπορώ	(I) cannot
+αποσύνδεση	disconnection
+ιστοσελίδα	website
+βιντεοκλήση	video call
+χρήστης	user
+ειδοποίηση	notification
+κοινοποιώ	(I) share
+ηλεκτρονική αλληλογραφία	email
+αίτημα φιλίας	friend request
+κοινωνικά δίκτυα	social media
+θέαση	view (internet)
+σύδεση	login
+εκτός σύνδεσης	offline
+ανέβηκε	(it) was uploaded
+σύνδεση	link
+απενεργοποίηση	deactivation
+κατεβάζω	(I) download
+κλικάρω	(I) click
+σε σύνδεση	online
+ρούτερ	router
+μπλοκάρω	(Ι) block
+βίντεο	video(s)
+εφαρμογή	application
+διαγραφή	deletion
+κοινοποιήσεις	shares (social media)
+νικήτρια	winner [f.]
+νικητής	winner [m.]
+αποφοίτηση	graduation
+φεστιβάλ	festival
+κλήρωση	prize draw
+προσκαλέσω	(I) invite
+μαραθώνιος	marathon
+γιορτή	celebration
+εκδοτήριο	ticket office
+φορτηγό	truck, lorry, van
+υποβρύχιο	submarine
+ελέγχουν	(they) control
+βενζίνη	petrol, gasoline
+τραίνο	train
+κράνος	helmet (n)
+τιμόνι	steering wheel
+πεζοδρόμιο	pavement
+διόδια	tolls
+αποσκευές	luggage
+αεροσυνοδός	flight attendant (f)
+ταξί	taxi
+αμάξι	car
+καύσιμο	fuel
+νταλίκα	trailer truck, articulated lorry
+τραμ	tram
+φανάρια	traffic lights
+ελικόπτερο	helicopter
+μέσα μαζικής μεταφοράς	public transportation
+μηχανάκι	motorbike
+τρακτέρ	tractor
+φιλόσοφος	philosopher
+θετικισμός	positivism
+είδη	kinds
+δομισμός	structuralism
+διαλεκτική	dialectic
+ρεαλιστής	realist(ic)
+πολιτική φιλοσοφία	political philosophy
+νόημα	meaning (n)
+θεωρία	theory
+μύθος	myth
+ηθική	ethics
+ιδρυτής	founder
+πεσιμιστής	pessimist(ic)
+δικαίωμα	(moral) right (n)
+ακαδημία	academy
+συναίσθημα	feeling (n)
+σκεπτικιστής	skeptic(al)
+λογική	logic
+διαφωτισμός	enlightenment
+οπτιμιστής	optimist(ic)
+υποσυνείδητο	subconscious
+ουμανισμός	humanism
+ηδονή	pleasure (sensual)
+προτεσταντισμός	Protestantism
+ιουδαϊσμός	Judaism
+χριστιανικό	Christian [adj.]
+βίβλος	Βible (f)
+προφήτης	prophet
+χριστούγεννα	Christmas
+ινδουισμός	Hinduism
+πάσχα	Easter (n)
+τζαμί	mosque
+άγγελος	angel
+μουσουλμάνος	Muslim
+παπάς	priest
+ανεξιθρησκεία	religious tolerance
+κοράνι	Koran
+ισλάμ	Islam
+ιουδαίος	Jew
+ιερό	holy
+χριστιανός	Christian [noun]
+παγανισμός	paganism
+μονή	convent
+άθεος	atheist
+σταυρός	cross
+βουδισμός	Buddhism
+αγνωστικιστής	agnostic
+συναγωγή	synagogue
+καθολικισμός	Catholicism
+μοναστήρι	monastery
+χριστιανισμός	Christianity
+ορθοδοξία	Orthodoxy
+προστάτης	protector, patron
+άγιος	saint
+θα μπορούσα να είχα μαγειρέψει	(I) could have cooked
+θα μπορούσα να είχα δώσει	(I) could have given
+θα μπορούσα να είχα προσπαθήσει	(I) could have tried
+θα μπορούσα να είχα ρωτήσει	(I) could have asked
+θα μπορούσα να είχα φάει	(I) could have eaten
